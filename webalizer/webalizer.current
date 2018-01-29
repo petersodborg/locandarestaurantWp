@@ -1,0 +1,1473 @@
+# Webalizer V2.20-01 Incremental Data - 09/14/2014 22:58:32
+2014 9 14 22 58 32
+4637 4216 94 339 84 39 58864014 515 164 0
+51 201 437 1 14
+746 710 10151130 6 57 8
+15 15 29876 7 6 5
+144 128 2367102 13 32 14
+157 149 1397121 10 40 31
+383 293 3861467 3 41 4
+362 348 5272911 13 27 8
+179 167 2772323 4 24 5
+3 3 9221 3 2 2
+662 575 6415882 7 78 7
+313 248 4714642 9 47 21
+228 200 3021349 3 35 4
+17 15 43493 6 9 6
+131 125 1785858 6 23 14
+1297 1240 17021639 51 94 35
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 5875 1
+1 1 3835 1
+1 1 3195 1
+5 3 9519 4
+10 10 21773 5
+128 120 1768746 19
+8 8 25621 6
+16 16 34733 8
+10 10 38800 10
+66 64 646633 9
+67 64 674731 8
+154 152 1774084 7
+294 273 3361436 42
+314 293 2634594 52
+463 436 6311576 45
+267 238 4623093 42
+309 241 3948043 36
+199 181 3192170 19
+587 502 6725851 56
+523 502 6601606 42
+356 337 4927628 31
+525 447 6309045 41
+327 310 5209824 27
+3 3 11603 3
+0
+0
+0
+4216
+0
+0
+0
+0
+0
+11
+0
+42
+12
+0
+192
+0
+0
+0
+0
+0
+0
+164
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/themes/seven/reset.css
+0 4 0 5100 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans-bold.css
+0 2 0 440 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/buttons.png
+0 1 0 3133 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/langs/en.js
+0 2 0 5332 0 0
+/media/browser
+0 3 0 20124 0 0
+/
+0 114 0 436255 77 30
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 16.04.06.png
+0 1 0 21043 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-settings.png
+0 2 0 1134 0 0
+/admin/menus/add
+0 3 0 36321 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/langs/en_dlg.js
+0 1 0 772 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-change-layout.png
+0 2 0 638 0 0
+/profiles/restaurant/modules/contrib/ctools/js/modal.js
+0 2 0 10276 0 0
+/misc/vertical-tabs.js
+0 2 0 4054 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js
+0 4 0 7648 0 0
+/modules/file/file.css
+0 1 0 253 0 0
+/misc/drupal.js
+0 65 0 308326 0 0
+/sites/default/files/ctools/css/5c8fc90cf7c06d7389504ffb359f621c.css
+0 5 0 1200 0 0
+/profiles/restaurant/modules/contrib/views/css/views.css
+0 65 0 19158 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/loading-small.gif
+0 2 0 4224 0 0
+/menus/zuppa-de-cozze-malaga
+0 1 0 3677 1 1
+/profiles/restaurant/modules/contrib/admin_menu/images/arrow.png
+0 2 0 366 0 0
+/sites/default/files/js/wysiwyg/wysiwyg_tinymce_joIbylYytqmxpMfSEDAUlrF_CDXtY9oyrIKeF2z-OJM.js
+0 4 0 484 0 0
+/misc/tabledrag.js
+0 1 0 10906 0 0
+/content/vinsmagning
+0 31 0 102190 15 14
+/sites/default/files/Skærmbillede 2014-06-25 kl. 15.28.45.png
+0 1 0 66062 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-25 kl. 12.41.02.png
+0 1 0 19268 0 0
+/profiles/restaurant/modules/contrib/admin_menu/admin_menu.uid1.css
+0 2 0 348 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-09-01 kl. 12.13.27.png
+0 1 0 18148 0 0
+/misc/draggable.png
+0 1 0 268 0 0
+/modules/field/theme/field.css
+0 65 0 14570 0 0
+/sites/default/files/Skærmbillede 2014-06-23 kl. 17.05.30_0.png
+0 9 0 599728 0 0
+/profiles/restaurant/modules/contrib/ctools/css/ctools.css
+0 65 0 15624 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/plugins/break/break.css
+0 2 0 412 0 0
+/profiles/restaurant/modules/panopoly/panopoly_magic/panopoly-magic.js
+0 65 0 99666 0 0
+/sites/default/files/styles/location_gallery_image/public/BarogClaudio.jpg
+0 12 0 100980 0 0
+/menus/rosso-dogato
+0 1 0 3662 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js
+0 4 0 19772 0 0
+/contact
+0 26 0 83037 15 14
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 17.05.30_0.png
+0 1 0 22838 0 0
+/menus/alacarte/pasta
+0 10 0 46461 1 1
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css
+0 2 0 850 0 0
+/profiles/restaurant/modules/restaurant/restaurant_reservation/css/restaurant_reservation.css
+0 1 0 648 0 0
+/profiles/restaurant/modules/contrib/panelizer/js/panelizer-ipe.js
+0 2 0 766 0 0
+/modules/system/system.admin.css
+0 2 0 2750 0 0
+/profiles/restaurant/modules/panopoly/panopoly_admin/panopoly-admin.js
+0 65 0 32823 0 0
+/misc/favicon.ico
+0 40 0 46000 0 0
+/sites/default/files/ctools/css/4abc48598107ad20fa6997a491ed46d3.css
+0 14 0 3094 0 0
+/sites/default/files/ctools/css/20dc8a24b23c8e0882cb3d56690e3bff.css
+0 5 0 1200 0 0
+/profiles/restaurant/modules/contrib/caption_filter/js/caption-filter-tinymce.js
+0 2 0 4448 0 0
+/profiles/restaurant/modules/contrib/caption_filter/js/caption-filter.gif
+0 2 0 244 0 0
+/sites/default/files/Locanda billede_5.jpg
+0 48 0 1420464 0 0
+/sites/default/files/ctools/css/95c459c717a2008d38833417fde91784.css
+0 14 0 3107 0 0
+/profiles/restaurant/themes/radix/assets/javascripts/radix-modal.js
+0 2 0 2906 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 12.37.16_0.png
+0 12 0 574761 0 0
+/sites/default/files/ctools/css/b2e5338b9e0089adecb90639f722b860.css
+0 4 0 960 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/js/link.js
+0 1 0 1516 0 0
+/profiles/restaurant/modules/panopoly/panopoly_theme/plugins/layouts/burr_flipped/burr-flipped.css
+0 2 0 548 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/tabs.gif
+0 1 0 1322 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-25 kl. 12.37.16_0.png
+0 1 0 21327 0 0
+/sites/default/files/ctools/css/c52870a8c7d5ef480d68dd1dc7c18422.css
+0 4 0 960 0 0
+/profiles/restaurant/modules/contrib/radix_admin/assets/stylesheets/radix-admin.css
+0 65 0 55552 0 0
+/profiles/restaurant/modules/contrib/linkit/js/linkit.dialog.js
+0 4 0 9180 0 0
+/modules/file/file.js
+0 1 0 2160 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/utils/form_utils.js
+0 1 0 2063 0 0
+/panels/ajax/ipe/edit-pane/panel_context:page-home::page_home_panel_context::::/407
+0 2 0 59316 0 0
+/profiles/restaurant/themes/restaurant_radix/assets/fonts/fontawesome-webfont.woff
+0 31 0 1350732 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css
+0 2 0 1970 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-25 kl. 12.46.12.png
+0 1 0 20103 0 0
+/modules/user/user.css
+0 65 0 43276 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js
+0 66 0 122850 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-close.png
+0 2 0 570 0 0
+/profiles/restaurant/modules/contrib/views/js/base.js
+0 1 0 1184 0 0
+/profiles/restaurant/modules/contrib/media/css/media.css
+0 2 0 1796 0 0
+/misc/throbber.gif
+0 2 0 2672 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 15.45.10.png
+0 1 0 21253 0 0
+/profiles/restaurant/modules/contrib/metatag/metatag.vertical-tabs.js
+0 2 0 1388 0 0
+/profiles/restaurant/modules/contrib/views_bulk_operations/css/views_bulk_operations.css
+0 1 0 289 0 0
+/menus/menu-de-luxe-min-2-kuverter-0
+0 3 0 11780 0 0
+/profiles/restaurant/modules/contrib/date/date_popup/themes/datepicker.1.7.css
+0 65 0 56110 0 0
+/file/ajax/upload/form-kAZD06CjZ8hPNUy27o7ikWvZUF0bC8gBX5RPuvuq_vk
+0 1 0 1135 0 0
+/modules/file/icons/image-x-generic.png
+0 1 0 385 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-add.png
+0 2 0 2104 0 0
+/sites/default/files/ctools/css/930354f21775a4011bc7ab305d1f2430.css
+0 14 0 3107 0 0
+/misc/textarea.js
+0 4 0 1672 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/css/panels_ipe.css
+0 2 0 5394 0 0
+/sites/default/files/Skærmbillede 2014-06-30 kl. 16.15.06.png
+0 9 0 495920 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-jquery-ui-theme.css
+0 65 0 293198 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/images/close-popup.png
+0 1 0 407 0 0
+/sites/default/files/Skærmbillede 2014-06-23 kl. 16.58.26_0.png
+0 9 0 559400 0 0
+/modules/field/modules/text/text.js
+0 2 0 1312 0 0
+/profiles/restaurant/modules/contrib/ctools/js/dependent.js
+0 2 0 4836 0 0
+/profiles/restaurant/modules/contrib/date/date_api/date.css
+0 65 0 71176 0 0
+/menus/alacarte/desserter/oste
+0 1 0 3873 1 1
+/profiles/restaurant/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.css
+0 3 0 684 0 0
+/modules/system/system.menus.css
+0 2 0 1324 0 0
+/sites/default/files/ctools/css/3fe07695c2d2bd42d96aa2b241812955.css
+0 10 0 2151 0 0
+/profiles/restaurant/modules/contrib/media/js/media.js
+0 1 0 1191 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.sortable.min.js
+0 2 0 12192 0 0
+/modules/filter/filter.js
+0 4 0 1152 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 16.58.26_0.png
+0 1 0 21530 0 0
+/profiles/restaurant/modules/contrib/linkit/editors/tinymce/editor_plugin.js
+0 2 0 2052 0 0
+/misc/batch.js
+0 1 0 456 0 0
+/sites/default/files/ctools/css/f9e2f9439d5fb44ff07b1e73e6b6a57f.css
+0 4 0 956 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/utils/validate.js
+0 1 0 1864 0 0
+/profiles/restaurant/modules/contrib/linkit/better-autocomplete/jquery.better-autocomplete.js
+0 4 0 32160 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-30 kl. 16.35.52.png
+0 1 0 20853 0 0
+/profiles/restaurant/modules/contrib/linkit/editors/tinymce/linkitDialog.js
+0 4 0 4016 0 0
+/menus/alacarte/fisk
+0 10 0 46457 1 1
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-30 kl. 14.56.29.png
+0 1 0 24695 0 0
+/profiles/restaurant/modules/contrib/panels/plugins/layouts/flexible/flexible.css
+0 19 0 1062 0 0
+/sites/default/files/Skærmbillede 2014-06-23 kl. 16.04.06.png
+0 6 0 364302 0 0
+/sites/default/files/Banner_gul_99x32.gif
+0 43 0 71190 0 0
+/sites/default/files/ctools/css/a4670ab34ba750e839ccfc1c1e683114.css
+0 14 0 3107 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js
+0 2 0 2112 0 0
+/profiles/restaurant/modules/contrib/views/js/ajax_view.js
+0 1 0 1840 0 0
+/sites/default/files/ctools/css/05a46d9f3068a55f36b835d2a22f9533.css
+0 10 0 2142 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-draggable.png
+0 2 0 2908 0 0
+/profiles/restaurant/modules/contrib/panels/css/panels_dnd.css
+0 2 0 5704 0 0
+/menus/cozze-tarantina
+0 1 0 3683 1 0
+/themes/seven/images/buttons.png
+0 2 0 1572 0 0
+/sites/default/files/styles/location_gallery_thumbnail/public/Billede2.jpg
+0 12 0 93768 0 0
+/profiles/restaurant/modules/restaurant/restaurant_menu/css/restaurant_menu.css
+0 1 0 293 0 0
+/menus/alacarte/carne
+0 17 0 80679 2 1
+/sites/default/files/Skærmbillede 2014-06-04 kl. 16.34.43_1.png
+0 14 0 1049454 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/tiny_mce_popup.js
+0 1 0 1853 0 0
+/profiles/restaurant/themes/radix/assets/javascripts/radix-progress.js
+0 2 0 2678 0 0
+/profiles/restaurant/modules/contrib/media/modules/media_wysiwyg/wysiwyg_plugins/media_ckeditor/images/icon.gif
+0 2 0 252 0 0
+/sites/default/files/ctools/css/0bec40635cc916eedd75447c7781f47f.css
+0 11 0 2390 0 0
+/sites/default/files/ctools/css/e545ab63d0b9b7a5b9e06288ad39d815.css
+0 5 0 1200 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-04 kl. 16.34.43_1.png
+0 1 0 26625 0 0
+/profiles/restaurant/modules/contrib/media/modules/media_wysiwyg/js/media_wysiwyg.format_form.js
+0 1 0 967 0 0
+/misc/ajax.js
+0 2 0 14106 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 12.41.02.png
+0 12 0 650221 0 0
+/sites/default/files/Skærmbillede 2014-09-01 kl. 12.13.27.png
+0 13 0 6833112 0 0
+/misc/message-24-error.png
+0 1 0 733 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/link.htm
+0 1 0 922 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/plugins/break/images/break.gif
+0 2 0 216 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-25 kl. 12.31.21.png
+0 1 0 24143 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/dialog.css
+0 1 0 1741 0 0
+/menus/menu-de-luxe-min-2-kuverter
+0 1 0 3995 1 1
+/profiles/restaurant/themes/radix/assets/stylesheets/radix-livestyle.css
+0 66 0 5022 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 16.07.30.png
+0 1 0 23952 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-07-03 kl. 20.47.47.png
+0 1 0 21963 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-30 kl. 16.15.20.png
+0 1 0 27722 0 0
+/robots.txt
+0 14 0 21854 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-delete.png
+0 2 0 1316 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-configure.png
+0 2 0 1092 0 0
+/profiles/restaurant/modules/contrib/admin_menu/images/bkg-red.png
+0 2 0 472 0 0
+/profiles/restaurant/modules/contrib/media/js/media.core.js
+0 4 0 884 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js
+0 65 0 189252 0 0
+/menus/alacarte/desserter
+0 6 0 23386 0 1
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css
+0 65 0 36084 0 0
+/profiles/restaurant/modules/contrib/media/js/media.popups.js
+0 4 0 11352 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js
+0 2 0 9238 0 0
+/misc/help.png
+0 2 0 588 0 0
+/profiles/restaurant/modules/contrib/radix_admin/assets/javascripts/radix-admin.js
+0 65 0 12159 0 0
+/profiles/restaurant/modules/contrib/linkit/js/linkit.js
+0 4 0 5344 0 0
+/sites/default/files/ctools/css/f4bc00be29dfbadbcbbbc936077cfe75.css
+0 14 0 3107 0 0
+/menus/drikkevarer/rodvin
+0 8 0 37759 1 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js
+0 4 0 5684 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/misc/jquery.form.min.js
+0 2 0 8210 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/fonts/open_sans_700.woff
+0 2 0 31672 0 0
+/profiles/restaurant/modules/contrib/token/token.js
+0 2 0 2178 0 0
+/themes/seven/images/fc.png
+0 2 0 164 0 0
+/menus
+0 64 0 157310 6 7
+/favicon.ico
+0 1 0 0 0 0
+/modules/node/node.css
+0 65 0 8784 0 0
+/sites/default/files/Skærmbillede 2014-06-04 kl. 15.13.06_1.png
+0 14 0 731549 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans-italic.css
+0 2 0 462 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 13.04.50_0.png
+0 5 0 243195 0 0
+/js/admin_menu/cache/6d18617624d2f1d3b41533f03d0a62d2
+0 1 0 5365 0 0
+/menus/menu-2-min-2-kuverter
+0 1 0 3952 1 1
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-04 kl. 15.13.06_1.png
+0 1 0 23456 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 12.46.12.png
+0 9 0 477808 0 0
+/profiles/restaurant/modules/panopoly/panopoly_theme/css/panopoly-accordian.css
+0 65 0 13176 0 0
+/profiles/restaurant/modules/contrib/admin_menu/admin_menu.js
+0 2 0 7960 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/wysiwyg.js
+0 4 0 12112 0 0
+/profiles/restaurant/modules/contrib/addressfield/addressfield.css
+0 12 0 3504 0 0
+/batch
+0 2 0 2578 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-25 kl. 13.04.50_0.png
+0 1 0 21280 0 0
+/menus/drikkevarer/vand
+0 5 0 19703 1 0
+/profiles/restaurant/modules/contrib/calendar/css/calendar_multiday.css
+0 65 0 220658 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/misc/1.7/states.js
+0 2 0 7638 0 0
+/misc/progress.gif
+0 2 0 11744 0 0
+/sites/default/files/styles/location_gallery_image/public/Billede3.jpg
+0 12 0 87456 0 0
+/user
+0 2 0 6830 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-07-03 kl. 20.47.34.png
+0 1 0 20282 0 0
+/sites/default/files/Skærmbillede 2014-06-23 kl. 15.45.10.png
+0 6 0 315300 0 0
+/profiles/restaurant/modules/contrib/admin_menu/images/icon_users.png
+0 2 0 1258 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-save.png
+0 2 0 494 0 0
+/profiles/restaurant/modules/contrib/panels/css/panels.css
+0 65 0 21204 0 0
+/misc/autocomplete.js
+0 2 0 5148 0 0
+/themes/seven/images/add.png
+0 1 0 160 0 0
+/menus/alacarte/Vegetar
+0 3 0 12560 0 0
+/profiles/restaurant/modules/contrib/field_collection/field_collection.theme.css
+0 40 0 15162 0 0
+/admin/menus
+0 3 0 15272 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 17.05.30.png
+0 1 0 22838 0 0
+/profiles/restaurant/modules/panopoly/panopoly_theme/css/panopoly-featured.css
+0 65 0 12090 0 0
+/misc/collapse.js
+0 4 0 4728 0 0
+/misc/grippie.png
+0 2 0 212 0 0
+/sites/default/files/ctools/css/39b5169b5acfd078df8979dcffda8996.css
+0 14 0 3120 0 0
+/menus/italiensk-øl
+0 1 0 3633 1 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js
+0 2 0 1972 0 0
+/sites/default/files/ctools/css/090ccfaee24dc562808b6f0f17b1463d.css
+0 9 0 2151 0 0
+/panels/ajax/ipe/save_form/panel_context:page-home::page_home_panel_context::::
+0 6 0 41606 0 0
+/sites/default/files/styles/location_gallery_image/public/Billede2.jpg
+0 12 0 93768 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js
+0 2 0 2686 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js
+0 65 0 81344 0 0
+/sites/default/files/ctools/css/a92cd033011495ba70bcfb5e1ddbd32f.css
+0 10 0 2151 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js
+0 68 0 229450 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/images/icon-style.png
+0 2 0 976 0 0
+/sites/default/files/ctools/css/7a4871d7ba2b806e9e3bb87ddba7ac0c.css
+0 5 0 1200 0 0
+/profiles/restaurant/themes/restaurant_radix/assets/javascripts/script.js
+0 65 0 25389 0 0
+/sites/default/files/Skærmbillede 2014-06-30 kl. 16.35.52.png
+0 3 0 681450 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js
+0 65 0 2053688 0 0
+/profiles/restaurant/modules/contrib/panelizer/css/panelizer-ipe.css
+0 2 0 0 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js
+0 2 0 2646 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 14.28.24.png
+0 1 0 195209 0 0
+/profiles/restaurant/themes/radix/assets/javascripts/radix-script.js
+0 64 0 8308 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/utils/mctabs.js
+0 1 0 1442 0 0
+/profiles/restaurant/libraries/markitup/markitup/jquery.markitup.js
+0 4 0 24740 0 0
+/profiles/restaurant/modules/panopoly/panopoly_admin/panopoly-admin.css
+0 2 0 4258 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts.css
+0 65 0 13888 0 0
+/sites/default/files/Skærmbillede 2014-06-04 kl. 16.57.30_1.png
+0 14 0 817960 0 0
+/profiles/restaurant/modules/panopoly/panopoly_theme/plugins/layouts/bryant/bryant.css
+0 12 0 3204 0 0
+/profiles/restaurant/modules/contrib/caption_filter/js/caption-filter.js
+0 65 0 68040 0 0
+/profiles/restaurant/modules/panopoly/panopoly_magic/images/status-active.gif
+0 1 0 1067 0 0
+/profiles/restaurant/themes/restaurant_radix/assets/javascripts/imagesloaded.pkgd.min.js
+0 65 0 145152 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 14.28.35.png
+0 1 0 46653 0 0
+/profiles/restaurant/modules/contrib/media/modules/media_wysiwyg/js/wysiwyg-media.js
+0 4 0 6840 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/fonts/open_sans_400.woff
+0 2 0 31872 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-04 kl. 16.57.30_1.png
+0 1 0 23321 0 0
+/profiles/restaurant/themes/radix/assets/stylesheets/radix-style.css
+0 1 0 416271 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.droppable.min.js
+0 2 0 3626 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js
+0 4 0 14824 0 0
+/sites/default/files/ctools/css/19c10f971ec933572b0f27bbcbed1c50.css
+0 9 0 2151 0 0
+/modules/taxonomy/taxonomy.css
+0 1 0 232 0 0
+/profiles/restaurant/modules/panopoly/panopoly_theme/js/panopoly-accordion.js
+0 65 0 12348 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans-bold-italic.css
+0 2 0 480 0 0
+/menus/la-carte
+0 8 0 25902 1 1
+/profiles/restaurant/modules/contrib/wysiwyg/editors/js/none.js
+0 4 0 4768 0 0
+/profiles/restaurant/modules/contrib/linkit/editors/tinymce/images/linkit.png
+0 2 0 1216 0 0
+/profiles/restaurant/modules/contrib/ctools/js/auto-submit.js
+0 3 0 3432 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/editors/css/tinymce-3.css
+0 2 0 452 0 0
+/sites/default/files/Skærmbillede 2014-06-04 kl. 20.37.08_1.png
+0 5 0 231335 0 0
+/modules/system/system.base.css
+0 65 0 116684 0 0
+/modules/node/node.js
+0 2 0 1220 0 0
+/sites/default/files/ctools/css/3ba52d4f29deb095d2995ffb0f02d7de.css
+0 14 0 3107 0 0
+/menus/drikkevarer
+0 2 0 9656 1 0
+/profiles/restaurant/modules/contrib/caption_filter/js/langs/en.js
+0 2 0 160 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/tiny_mce.js
+0 4 0 924308 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/wysiwyg.init.js
+0 4 0 1256 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-04 kl. 20.37.08_1.png
+0 1 0 23454 0 0
+/menus/alacarte/antipasti
+0 14 0 61389 0 1
+/profiles/restaurant/modules/contrib/admin_menu/admin_menu.css
+0 2 0 3168 0 0
+/menus/pasta-salmone
+0 1 0 3642 1 1
+/admin/menus/manage
+0 2 0 12180 0 0
+/profiles/restaurant/themes/restaurant_radix/assets/fonts/fontawesome-webfont.eot
+0 12 0 448860 0 0
+/profiles/restaurant/modules/panopoly/panopoly_magic/css/panopoly-magic.css
+0 65 0 74028 0 0
+/profiles/restaurant/modules/contrib/caption_filter/caption-filter.css
+0 67 0 24320 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif
+0 2 0 23964 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/editors/js/markitup.js
+0 4 0 2300 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 12.31.21.png
+0 12 0 742214 0 0
+/profiles/restaurant/modules/contrib/panels/css/panels_admin.css
+0 2 0 1656 0 0
+/panels/ajax/ipe/unlock_ipe/panel_context:page-home::page_home_panel_context::::
+0 2 0 960 0 0
+/menus/m\xc3\xa5nedens-menu
+0 2 0 8737 2 0
+/locations/om-os
+0 16 0 69139 3 1
+/misc/progress.js
+0 2 0 2404 0 0
+/node/99/edit
+0 1 0 12156 0 0
+/sites/default/files/Skærmbillede 2014-06-23 kl. 16.07.30.png
+0 6 0 546366 0 0
+/misc/form.js
+0 4 0 4004 0 0
+/sites/default/files/Skærmbillede 2014-06-30 kl. 16.15.20.png
+0 9 0 597328 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-04 kl. 20.37.08.png
+0 1 0 23454 0 0
+/media/107/format-form
+0 1 0 3683 0 0
+/sites/default/files/ctools/css/7e1431ddf3a03c19069f1d892c3bbd97.css
+0 3 0 720 0 0
+/profiles/restaurant/modules/contrib/field_group/field_group.field_ui.css
+0 2 0 524 0 0
+/profiles/restaurant/modules/contrib/devel/devel_krumo_path.js
+0 2 0 1642 0 0
+/profiles/restaurant/libraries/markitup/markitup/skins/simple/style.css
+0 2 0 1712 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css
+0 2 0 5904 0 0
+/profiles/restaurant/modules/contrib/media/js/util/ba-debug.min.js
+0 4 0 2664 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans.css
+0 2 0 420 0 0
+/sites/default/files/ctools/css/7f012b05e015b73322abbe0714123d56.css
+0 10 0 2151 0 0
+/profiles/restaurant/modules/contrib/panels/panels_ipe/js/panels_ipe.js
+0 2 0 8916 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-07-03 kl. 20.47.41.png
+0 1 0 23822 0 0
+/js/admin_menu/cache/356a63e8999701f815954133639d7200
+0 2 0 10700 0 0
+/modules/system/system.theme.css
+0 65 0 75578 0 0
+/profiles/restaurant/themes/radix/assets/javascripts/modernizr.js
+0 65 0 389844 0 0
+/profiles/restaurant/modules/contrib/media/js/util/json2.js
+0 4 0 21448 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css
+0 65 0 27342 0 0
+/menus/menu-2-min-2-kuverter-0
+0 3 0 11878 1 1
+/profiles/restaurant/modules/contrib/radix_layouts/radix_layouts.css
+0 65 0 107756 0 0
+/menus/menu-1-0
+0 3 0 11750 1 2
+/profiles/restaurant/modules/contrib/linkit/css/linkit.css
+0 2 0 1366 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-dropbutton.css
+0 65 0 33914 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/editors/js/tinymce-3.js
+0 4 0 11620 0 0
+/profiles/restaurant/modules/contrib/media/js/plugins/media.views.js
+0 1 0 1729 0 0
+/profiles/restaurant/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css
+0 2 0 1204 0 0
+/profiles/restaurant/themes/restaurant_radix/assets/stylesheets/screen.css
+0 66 0 27504750 0 0
+/profiles/restaurant/modules/contrib/admin_menu/images/bkg.png
+0 2 0 472 0 0
+/profiles/restaurant/modules/panopoly/panopoly_widgets/panopoly-widgets.css
+0 65 0 87544 0 0
+/profiles/restaurant/modules/panopoly/panopoly_magic/css/panopoly-modal.css
+0 2 0 4910 0 0
+/misc/menu-collapsed.png
+0 2 0 210 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js
+0 2 0 10402 0 0
+/sites/default/files/Skærmbillede 2014-06-30 kl. 14.56.29_0.png
+0 5 0 308215 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 15.28.37.png
+0 1 0 53960 0 0
+/misc/tableheader.js
+0 1 0 1848 0 0
+/themes/seven/vertical-tabs.css
+0 2 0 1614 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin.js
+0 2 0 12274 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-30 kl. 14.56.29_0.png
+0 1 0 24695 0 0
+/panels/ajax/ipe/edit-pane/panel_context:page-home::page_home_panel_context::::/407/form
+0 2 0 7310 0 0
+/misc/message-24-ok.png
+0 2 0 2116 0 0
+/menus/månedens-menu
+0 57 0 242263 21 10
+/themes/seven/style.css
+0 4 0 18572 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-30 kl. 16.15.06.png
+0 1 0 23533 0 0
+/misc/jquery.once.js
+0 65 0 66092 0 0
+/sites/default/files/Skærmbillede 2014-06-25 kl. 14.28.42.png
+0 1 0 73652 0 0
+/sites/default/files/ctools/css/9d853d6f7e8beaae9d955b963877808f.css
+0 11 0 2400 0 0
+/menus/alacarte/born
+0 5 0 21621 1 1
+/profiles/restaurant/modules/panopoly/panopoly_widgets/panopoly-widgets.js
+0 65 0 85554 0 0
+/profiles/restaurant/themes/restaurant_radix/assets/stylesheets/print.css
+0 73 0 0 0 0
+/profiles/restaurant/modules/contrib/wysiwyg/plugins/break/break.js
+0 4 0 3608 0 0
+/profiles/restaurant/modules/contrib/ctools/css/modal.css
+0 2 0 1496 0 0
+/menus/drikkevarer/hvidvin
+0 4 0 16583 0 1
+/modules/image/image.css
+0 1 0 225 0 0
+/profiles/restaurant/modules/contrib/media/modules/media_wysiwyg/js/media_wysiwyg.filter.js
+0 4 0 9556 0 0
+/modules/filter/filter.css
+0 2 0 772 0 0
+/profiles/restaurant/modules/panopoly/panopoly_core/images/ui-bg_flat_100_000000_40x100.png
+0 1 0 178 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin.js
+0 2 0 1174 0 0
+/modules/menu/menu.js
+0 1 0 825 0 0
+/profiles/restaurant/modules/contrib/linkit/better-autocomplete/better-autocomplete.css
+0 2 0 1348 0 0
+/profiles/restaurant/modules/contrib/pathauto/pathauto.js
+0 2 0 536 0 0
+/menus/alacarte/zuppe
+0 7 0 28605 0 1
+/profiles/restaurant/modules/contrib/views_bulk_operations/js/views_bulk_operations.js
+0 1 0 1253 0 0
+/modules/system/system.messages.css
+0 65 0 23684 0 0
+/sites/default/files/styles/panopoly_image_full/public/Locanda billede_2.jpg
+0 6 0 0 0 0
+/profiles/restaurant/modules/contrib/media/js/media.browser.js
+0 1 0 1884 0 0
+/sites/default/files/styles/media_thumbnail/public/Skærmbillede 2014-06-23 kl. 16.58.26.png
+0 1 0 21530 0 0
+/node/add/panopoly-page
+0 1 0 10721 0 0
+/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js
+0 2 0 17506 0 0
+# End Of Table - urls
+# -sites- (monthly)
+31.13.99.112
+0 1 0 2903 0 0
+-
+31.13.99.113
+0 2 1 6736 1 1410714801
+/
+31.13.99.115
+0 1 0 2902 0 0
+-
+31.13.99.119
+0 1 1 3832 1 1410714803
+/
+212.10.105.220
+0 181 169 2663035 2 1410381937
+/content/vinsmagning
+66.249.78.39
+0 7 6 15566 4 1410714423
+/
+66.249.78.46
+0 8 7 18827 5 1410601832
+/menus/drikkevarer/vand
+66.249.78.53
+0 7 7 20315 5 1410730195
+/
+62.199.186.133
+0 53 53 572440 1 1410723911
+/locations/om-os
+212.10.115.232
+0 58 53 629631 1 1409606757
+/
+87.58.243.53
+0 233 162 2205308 2 1409940566
+/menus/månedens-menu
+173.252.114.114
+0 1 1 30684 0 0
+-
+173.252.114.115
+0 1 0 2908 0 0
+-
+31.13.97.112
+0 1 1 1695 0 0
+-
+173.252.114.119
+0 1 1 30684 0 0
+-
+31.13.97.113
+0 1 0 2912 0 0
+-
+31.13.97.117
+0 1 1 9000 0 0
+-
+31.13.97.118
+0 1 1 3833 1 1409782171
+/
+178.155.222.159
+0 102 97 1750081 1 1410362617
+/menus/alacarte/carne
+5.103.196.126
+0 197 192 3340434 2 1409594151
+/content/vinsmagning
+83.95.118.123
+0 55 54 1147998 1 1410732512
+/content/vinsmagning
+173.252.113.113
+0 1 0 2911 0 0
+-
+173.252.113.119
+0 1 0 2909 0 0
+-
+195.249.193.63
+0 47 47 536171 1 1410730623
+/menus/månedens-menu
+62.44.134.3
+0 1 1 3827 1 1410199417
+/
+80.62.117.44
+0 49 49 582943 1 1410724147
+/contact
+173.252.74.113
+0 1 1 30684 0 0
+-
+212.10.250.32
+0 118 112 1740841 1 1410586489
+/content/vinsmagning
+62.44.134.31
+0 46 46 535026 1 1410725685
+/menus/månedens-menu
+66.249.93.75
+0 2 2 8747 1 1410723951
+/menus/månedens-menu
+94.144.63.220
+0 50 49 607840 1 1409570034
+/
+94.145.234.139
+0 125 115 1314517 3 1409926554
+/locations/om-os
+212.10.101.246
+0 117 110 2253631 2 1409782397
+/contact
+94.145.145.215
+0 53 51 618879 1 1410723958
+/
+178.155.164.215
+0 47 47 536172 1 1410734019
+/menus/månedens-menu
+212.10.108.109
+0 140 133 1456519 4 1410547384
+/menus/månedens-menu
+5.103.130.45
+0 286 279 4402370 3 1410705459
+/menus/alacarte/born
+31.13.110.121
+0 1 1 4374 1 1410723802
+/menus/månedens-menu
+31.13.110.122
+0 1 1 4368 1 1410723800
+/menus/m\xc3\xa5nedens-menu
+31.13.110.123
+0 1 1 4369 1 1410723800
+/menus/m\xc3\xa5nedens-menu
+212.10.119.155
+0 55 51 619121 1 1410724004
+/
+2.111.131.248
+0 53 51 612723 1 1410726725
+/
+2.110.144.237
+0 47 47 536177 1 1410723911
+/menus/månedens-menu
+173.252.120.113
+0 1 1 30684 0 0
+-
+173.252.120.115
+0 1 1 30684 0 0
+-
+173.252.120.116
+0 1 1 30684 0 0
+-
+173.252.120.117
+0 1 1 30684 0 0
+-
+173.252.81.112
+0 1 1 30684 0 0
+-
+173.252.81.114
+0 1 0 2911 0 0
+-
+173.252.81.116
+0 1 1 1695 0 0
+-
+69.171.248.3
+0 1 0 2901 0 0
+-
+5.103.198.251
+0 5 3 17862 2 1409768525
+/menus/månedens-menu
+212.10.97.25
+0 64 60 828070 1 1410714948
+/contact
+173.252.103.0
+0 1 0 2911 0 0
+-
+173.252.103.4
+0 1 0 2904 0 0
+-
+173.252.103.5
+0 1 0 2907 0 0
+-
+173.252.103.7
+0 1 1 3680 1 1410723741
+/menus
+66.249.69.9
+0 1 1 4373 1 1410374601
+/menus/månedens-menu
+5.179.80.203
+0 296 277 2598201 1 1410271062
+/content/vinsmagning
+83.88.133.214
+0 54 52 625623 1 1409859655
+/menus/månedens-menu
+2.131.228.226
+0 50 49 614099 1 1410732373
+/
+83.95.118.208
+0 73 59 671601 1 1410725391
+/menus/månedens-menu
+66.249.67.126
+0 1 1 4827 1 1409819781
+/menus/drikkevarer
+66.249.67.134
+0 1 1 4723 1 1409816427
+/menus/drikkevarer/rodvin
+64.246.165.140
+0 2 2 5398 1 1410504238
+/
+91.240.186.157
+0 420 390 4832023 3 1410291648
+/
+66.249.78.162
+0 37 37 82672 19 1410684163
+/contact
+212.10.103.147
+0 202 196 2434155 2 1410038600
+/menus
+66.249.78.169
+0 44 43 637560 26 1410731133
+/content/vinsmagning
+66.249.78.176
+0 24 23 68460 14 1410642704
+/content/vinsmagning
+80.254.154.75
+0 72 61 1204770 1 1410447958
+/contact
+176.21.80.34
+0 84 82 1429470 1 1410728205
+/locations/om-os
+87.58.212.160
+0 105 43 1254978 6 1410368494
+/menus/alacarte/zuppe
+83.93.244.213
+0 65 63 806693 1 1410731055
+/menus/alacarte/carne
+66.249.64.110
+0 3 3 8479 2 1410701842
+/menus/alacarte/carne
+66.249.64.114
+0 4 4 14750 4 1410673974
+/
+66.249.64.118
+0 2 2 4756 1 1410537007
+/contact
+66.220.152.112
+0 1 1 30684 0 0
+-
+66.220.152.113
+0 1 0 2909 0 0
+-
+87.50.26.162
+0 104 88 1203869 2 1410451403
+/locations/om-os
+66.220.152.114
+0 1 1 30684 0 0
+-
+66.220.152.115
+0 2 1 6744 1 1410020189
+/
+66.220.152.118
+0 1 0 2911 0 0
+-
+80.62.196.101
+0 47 47 536174 1 1410735508
+/menus/månedens-menu
+62.107.179.162
+0 104 98 1756919 3 1410098709
+/menus/alacarte/carne
+62.107.189.111
+0 156 105 1965430 2 1410359410
+/
+77.215.73.245
+0 47 47 1059384 1 1409596102
+/content/vinsmagning
+62.44.135.93
+0 52 51 612710 1 1410427833
+/menus/månedens-menu
+176.21.95.4
+0 1 1 3823 1 1409694688
+/
+188.182.152.103
+0 71 66 1004102 1 1410107765
+/menus/alacarte/carne
+5.103.189.156
+0 53 51 623867 1 1410721013
+/contact
+217.157.130.162
+0 68 67 989449 1 1410723871
+/menus/alacarte/fisk
+5.103.187.110
+0 46 40 92642 1 1410272762
+/menus
+94.101.216.178
+0 106 103 1737998 2 1410730038
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+31.13.99.112
+0 1 0 2903 0 0
+-
+31.13.99.113
+0 2 1 6736 1 1410714801
+/
+31.13.99.115
+0 1 0 2902 0 0
+-
+31.13.99.119
+0 1 1 3832 1 1410714803
+/
+66.249.78.39
+0 2 2 5395 1 1410714423
+/
+66.249.78.53
+0 1 1 3827 1 1410730195
+/
+62.199.186.133
+0 53 53 572440 1 1410723911
+/locations/om-os
+173.252.114.114
+0 1 1 30684 0 0
+-
+173.252.114.119
+0 1 1 30684 0 0
+-
+83.95.118.123
+0 55 54 1147998 1 1410732512
+/content/vinsmagning
+173.252.113.113
+0 1 0 2911 0 0
+-
+173.252.113.119
+0 1 0 2909 0 0
+-
+195.249.193.63
+0 47 47 536171 1 1410730623
+/menus/månedens-menu
+80.62.117.44
+0 49 49 582943 1 1410724147
+/contact
+173.252.74.113
+0 1 1 30684 0 0
+-
+62.44.134.31
+0 46 46 535026 1 1410725685
+/menus/månedens-menu
+66.249.93.75
+0 2 2 8747 1 1410723951
+/menus/månedens-menu
+94.145.145.215
+0 53 51 618879 1 1410723958
+/
+178.155.164.215
+0 47 47 536172 1 1410734019
+/menus/månedens-menu
+5.103.130.45
+0 140 137 2120045 1 1410705459
+/menus/alacarte/born
+31.13.110.121
+0 1 1 4374 1 1410723802
+/menus/månedens-menu
+31.13.110.122
+0 1 1 4368 1 1410723800
+/menus/m\xc3\xa5nedens-menu
+31.13.110.123
+0 1 1 4369 1 1410723800
+/menus/m\xc3\xa5nedens-menu
+212.10.119.155
+0 55 51 619121 1 1410724004
+/
+2.111.131.248
+0 53 51 612723 1 1410726725
+/
+2.110.144.237
+0 47 47 536177 1 1410723911
+/menus/månedens-menu
+173.252.120.113
+0 1 1 30684 0 0
+-
+173.252.120.115
+0 1 1 30684 0 0
+-
+173.252.120.116
+0 1 1 30684 0 0
+-
+173.252.120.117
+0 1 1 30684 0 0
+-
+69.171.248.3
+0 1 0 2901 0 0
+-
+212.10.97.25
+0 64 60 828070 1 1410714948
+/contact
+173.252.103.0
+0 1 0 2911 0 0
+-
+173.252.103.4
+0 1 0 2904 0 0
+-
+173.252.103.5
+0 1 0 2907 0 0
+-
+173.252.103.7
+0 1 1 3680 1 1410723741
+/menus
+2.131.228.226
+0 50 49 614099 1 1410732373
+/
+83.95.118.208
+0 73 59 671601 1 1410725391
+/menus/månedens-menu
+66.249.78.162
+0 5 5 5473 1 1410684163
+/contact
+66.249.78.169
+0 4 4 6955 2 1410731133
+/content/vinsmagning
+66.249.78.176
+0 1 1 239 0 0
+-
+176.21.80.34
+0 84 82 1429470 1 1410728205
+/locations/om-os
+83.93.244.213
+0 65 63 806693 1 1410731055
+/menus/alacarte/carne
+66.249.64.110
+0 2 2 5284 1 1410701842
+/menus/alacarte/carne
+66.249.64.114
+0 1 1 3840 1 1410673974
+/
+66.220.152.112
+0 1 1 30684 0 0
+-
+66.220.152.114
+0 1 1 30684 0 0
+-
+80.62.196.101
+0 47 47 536174 1 1410735508
+/menus/månedens-menu
+5.103.189.156
+0 53 51 623867 1 1410721013
+/contact
+217.157.130.162
+0 68 67 989449 1 1410723871
+/menus/alacarte/fisk
+94.101.216.178
+0 106 103 1737998 2 1410730038
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://locandarestaurant.dk/menus/alacarte/fisk
+1 35
+http://locandarestaurant.dk/menus/la-carte
+1 10
+- (Direct Request)
+0 237
+http://www.locandarestaurant.dk/menus/la-carte
+1 2
+http://www.locandarestaurant.dk/profiles/restaurant/modules/contrib/admin_menu/admin_menu.css
+1 3
+http://locandarestaurant.dk/modules/system/system.base.css
+1 3
+http://locandarestaurant.dk/menus/alacarte/antipasti
+1 34
+http://locandarestaurant.dk/admin/menus/manage
+1 14
+https://www.google.dk/
+0 3
+http://www.locandarestaurant.dk/locations/om-os
+1 31
+http://locandarestaurant.dk/node/99/edit
+1 2
+http://locandarestaurant.dk/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css
+1 1
+http://www.locandarestaurant.dk/profiles/restaurant/modules/contrib/admin_menu/admin_menu.uid1.css
+1 1
+http://www.locandarestaurant.dk/menus/alacarte/pasta
+1 34
+http://www.locandarestaurant.dk/themes/seven/style.css
+1 1
+http://www.locandarestaurant.dk/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-jquery-ui-theme.css
+1 2
+http://locandarestaurant.dk/menus/menu-1-0
+1 2
+http://www.google.dk/url
+0 2
+http://www.locandarestaurant.dk/menus/drikkevarer/hvidvin
+1 3
+http://www.locandarestaurant.dk/menus/alacarte/antipasti
+1 26
+http://www.locandarestaurant.dk/menus/alacarte/fisk
+1 40
+http://www.locandarestaurant.dk/node/add/panopoly-page
+1 59
+http://locandarestaurant.dk/menus
+1 165
+http://locandarestaurant.dk/themes/seven/vertical-tabs.css
+1 1
+http://locandarestaurant.dk/menus/månedens-menu
+1 20
+http://locandarestaurant.dk/batch
+1 4
+http://locandarestaurant.dk/themes/seven/style.css
+1 2
+https://www.facebook.com/
+0 7
+http://locandarestaurant.dk/admin/menus
+1 4
+http://locandarestaurant.dk/menus/alacarte/zuppe
+1 4
+http://locandarestaurant.dk/modules/system/system.messages.css
+1 2
+http://www.locandarestaurant.dk/contact
+1 2
+http://locandarestaurant.dk/
+1 1247
+http://locandarestaurant.dk/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts.css
+1 2
+http://www.locandarestaurant.dk/menus/alacarte/carne
+1 74
+http://www.locandarestaurant.dk/modules/system/system.theme.css
+1 2
+http://locandarestaurant.dk/profiles/restaurant/modules/contrib/admin_menu/admin_menu.uid1.css
+1 1
+http://locandarestaurant.dk/menus/drikkevarer
+1 7
+http://www.locandarestaurant.dk/media/107/format-form
+1 3
+http://locandarestaurant.dk/profiles/restaurant/modules/contrib/admin_menu/admin_menu.css
+1 3
+http://l.facebook.com/l.php
+0 16
+http://locandarestaurant.dk/menus/alacarte/pasta
+1 25
+http://locandarestaurant.dk/locations/om-os
+1 84
+http://www.locandarestaurant.dk/modules/system/system.messages.css
+1 1
+http://locandarestaurant.dk/modules/system/system.theme.css
+1 2
+http://locandarestaurant.dk/menus/menu-2-min-2-kuverter-0
+1 1
+http://www.locandarestaurant.dk/media/browser
+1 35
+http://locandarestaurant.dk/profiles/restaurant/themes/restaurant_radix/assets/stylesheets/screen.css
+1 6
+http://lm.facebook.com/l.php
+0 1
+http://locandarestaurant.dk/profiles/restaurant/modules/contrib/panels/panels_ipe/css/panels_ipe.css
+1 10
+http://locandarestaurant.dk/menus/alacarte/born
+1 5
+http://www.locandarestaurant.dk/profiles/restaurant/modules/panopoly/panopoly_core/css/panopoly-fonts.css
+1 2
+http://locandarestaurant.dk/menus/drikkevarer/hvidvin
+1 11
+http://www.locandarestaurant.dk/profiles/restaurant/modules/panopoly/panopoly_magic/css/panopoly-magic.css
+1 1
+http://www.locandarestaurant.dk/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css
+1 1
+http://locandarestaurant.dk/menus/alacarte/carne
+1 68
+http://locandarestaurant.dk/admin/menus/add
+1 79
+http://www.locandarestaurant.dk/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/dialog.css
+1 2
+http://www.locandarestaurant.dk/menus/drikkevarer/vand
+1 1
+http://www.locandarestaurant.dk/menus/alacarte/Vegetar
+1 3
+http://locandarestaurant.dk/menus/alacarte/desserter
+1 14
+http://www.locandarestaurant.dk/user
+1 2
+http://www.locandarestaurant.dk/menus/alacarte/born
+1 14
+http://locandarestaurant.dk/menus/drikkevarer/rodvin
+1 19
+http://www.locandarestaurant.dk/modules/system/system.base.css
+1 2
+https://m.facebook.com/
+0 2
+http://locandarestaurant.dk/contact
+1 5
+http://www.locandarestaurant.dk/
+1 581
+http://www.locandarestaurant.dk/profiles/restaurant/themes/restaurant_radix/assets/stylesheets/screen.css
+1 7
+http://locandarestaurant.dk/menus/drikkevarer/vand
+1 3
+http://locandarestaurant.dk/user
+1 2
+http://whois.domaintools.com/locandarestaurant.dk
+1 1
+http://locandarestaurant.dk/menus/alacarte/Vegetar
+1 6
+http://www.locandarestaurant.dk/menus/månedens-menu
+1 895
+http://www.locandarestaurant.dk/menus/alacarte/desserter
+1 6
+http://www.locandarestaurant.dk/menus
+1 145
+http://www.locandarestaurant.dk/menus/drikkevarer/rodvin
+1 11
+http://locandarestaurant.dk/menus/menu-de-luxe-min-2-kuverter-0
+1 1
+http://www.locandarestaurant.dk/profiles/restaurant/modules/contrib/panels/panels_ipe/css/panels_ipe.css
+1 10
+http://www.locandarestaurant.dk/content/vinsmagning
+1 434
+http://www.locandarestaurant.dk/menus/alacarte/zuppe
+1 19
+http://www.locandarestaurant.dk/themes/seven/vertical-tabs.css
+1 1
+http://www.locandarestaurant.dk/profiles/restaurant/libraries/tinymce/jscripts/tiny_mce/themes/advanced/link.htm
+1 7
+http://l.facebook.com/lsr.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Linux; Android 4.4.3; HTC One Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile S
+0 49
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 431
+Mozilla/5.0 (Linux; U; Android 4.3; da-dk; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 47
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
+0 65
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+0 716
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MASEJS; rv:11.0) like Gecko
+0 96
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 46
+Googlebot-Image/1.0
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20100101 Firefox/12.0
+0 72
+visionutils/0.2
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 224
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537
+0 893
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 6
+Mozilla/5.0 (Linux; U; Android 4.2.2; da-dk; GT-P5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/
+0 54
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 222
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 58
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 100
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 58
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+0 303
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 135
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 34
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 55
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MALC; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a S
+0 46
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 65
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 3
+Mozilla/5.0 (Linux; U; Android 4.3; da-dk; GT-I9305 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 55
+Mozilla/5.0 (Linux; U; Android 4.1.2; da-dk; GT-I8190N Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 50
+Kml-Google; (+http://code.google.com/apis/kml), gzip
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 206
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+0 53
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 115
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 122
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALC; rv:11.0) like Gecko
+0 72
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 174
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
